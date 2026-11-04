@@ -49,7 +49,5 @@ fn main () {
             println!("No discount applied.");
             println!("Final charge: NGN {}", total);
         }
-    }
-
-
+    } 
 }
